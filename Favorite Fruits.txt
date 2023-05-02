@@ -3,3 +3,5 @@ Strawberry
 Oranges
 Cherries
 Plums
+Blueberry
+Huckleberry
